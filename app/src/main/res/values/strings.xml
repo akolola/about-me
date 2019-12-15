@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Alex</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello my name is Alex
+    \n\n I love fish.
+    \n\nSince 2008, Rolando has been District Executive for Hispanic Outreach and responsible for the Soccer and Scouting program at the Boy Scouts of America in Portland.
+    \n\nHis bi-cultural backgroundandfocus on community collaboration has led him to a number of volunteer opportunitiesand community leadership roles.
+    \n\nRolando received his Bachelor of Science in Communications at Oklahoma Christian University and aMasters in Management and Organizational Leadership at Warner Pacific College in Portland, Oregon.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
